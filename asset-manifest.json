@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/static/js/main.831976f8.chunk.js",
+    "main.js.map": "/static/js/main.831976f8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc97b701.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc97b701.js.map",
+    "static/css/2.ffc6cdd7.chunk.css": "/static/css/2.ffc6cdd7.chunk.css",
+    "static/js/2.b12ae9ea.chunk.js": "/static/js/2.b12ae9ea.chunk.js",
+    "static/js/2.b12ae9ea.chunk.js.map": "/static/js/2.b12ae9ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ffc6cdd7.chunk.css.map": "/static/css/2.ffc6cdd7.chunk.css.map",
+    "static/js/2.b12ae9ea.chunk.js.LICENSE.txt": "/static/js/2.b12ae9ea.chunk.js.LICENSE.txt",
+    "static/media/cypress.83de4f78.svg": "/static/media/cypress.83de4f78.svg",
+    "static/media/express.cc0d7cff.svg": "/static/media/express.cc0d7cff.svg",
+    "static/media/mongoose.8a6d147f.svg": "/static/media/mongoose.8a6d147f.svg",
+    "static/media/p-1-desktop.0cd4a905.png": "/static/media/p-1-desktop.0cd4a905.png",
+    "static/media/p-1-mobile.7e7d4bf5.png": "/static/media/p-1-mobile.7e7d4bf5.png",
+    "static/media/p-2-desktop.d9688791.png": "/static/media/p-2-desktop.d9688791.png",
+    "static/media/p-2-mobile.dac8ce70.png": "/static/media/p-2-mobile.dac8ce70.png",
+    "static/media/p-3-desktop.07bc946c.png": "/static/media/p-3-desktop.07bc946c.png",
+    "static/media/p-3-mobile.5f984de6.png": "/static/media/p-3-mobile.5f984de6.png",
+    "static/media/p-4-desktop.fa2956e7.png": "/static/media/p-4-desktop.fa2956e7.png",
+    "static/media/p-4-mobile.7404caeb.png": "/static/media/p-4-mobile.7404caeb.png",
+    "static/media/p-5-desktop.baf12c94.png": "/static/media/p-5-desktop.baf12c94.png",
+    "static/media/p-5-mobile.7bd0c126.png": "/static/media/p-5-mobile.7bd0c126.png",
+    "static/media/p-6-desktop.83bf44e9.png": "/static/media/p-6-desktop.83bf44e9.png",
+    "static/media/p-6-mobile.4b51ff8f.png": "/static/media/p-6-mobile.4b51ff8f.png",
+    "static/media/index.css": "/static/media/poppins-latin-ext-400-normal.53f1614b.woff2",
+    "static/media/resume.0918b775.pdf": "/static/media/resume.0918b775.pdf",
+    "static/media/sequelize.1876f7b9.svg": "/static/media/sequelize.1876f7b9.svg",
+    "static/media/typeorm.c60ab4e3.svg": "/static/media/typeorm.c60ab4e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc97b701.js",
+    "static/css/2.ffc6cdd7.chunk.css",
+    "static/js/2.b12ae9ea.chunk.js",
+    "static/js/main.831976f8.chunk.js"
+  ]
+}
