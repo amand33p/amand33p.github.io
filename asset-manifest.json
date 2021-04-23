@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.46b45414.chunk.js",
-    "main.js.map": "/static/js/main.46b45414.chunk.js.map",
+    "main.js": "/static/js/main.26fe4802.chunk.js",
+    "main.js.map": "/static/js/main.26fe4802.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cc97b701.js",
     "runtime-main.js.map": "/static/js/runtime-main.cc97b701.js.map",
     "static/css/2.ffc6cdd7.chunk.css": "/static/css/2.ffc6cdd7.chunk.css",
@@ -28,7 +28,7 @@
     "static/media/p-6-desktop.83bf44e9.png": "/static/media/p-6-desktop.83bf44e9.png",
     "static/media/p-6-mobile.4b51ff8f.png": "/static/media/p-6-mobile.4b51ff8f.png",
     "static/media/index.css": "/static/media/poppins-latin-ext-400-normal.53f1614b.woff2",
-    "static/media/resume.f4f44ed0.pdf": "/static/media/resume.f4f44ed0.pdf",
+    "static/media/resume.280d6b98.pdf": "/static/media/resume.280d6b98.pdf",
     "static/media/sequelize.1876f7b9.svg": "/static/media/sequelize.1876f7b9.svg",
     "static/media/typeorm.c60ab4e3.svg": "/static/media/typeorm.c60ab4e3.svg"
   },
@@ -36,6 +36,6 @@
     "static/js/runtime-main.cc97b701.js",
     "static/css/2.ffc6cdd7.chunk.css",
     "static/js/2.731f8174.chunk.js",
-    "static/js/main.46b45414.chunk.js"
+    "static/js/main.26fe4802.chunk.js"
   ]
 }
