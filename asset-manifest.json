@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.bd067cd4.chunk.js",
-    "main.js.map": "/static/js/main.bd067cd4.chunk.js.map",
+    "main.js": "/static/js/main.eb3e36e0.chunk.js",
+    "main.js.map": "/static/js/main.eb3e36e0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cc97b701.js",
     "runtime-main.js.map": "/static/js/runtime-main.cc97b701.js.map",
     "static/css/2.ffc6cdd7.chunk.css": "/static/css/2.ffc6cdd7.chunk.css",
-    "static/js/2.731f8174.chunk.js": "/static/js/2.731f8174.chunk.js",
-    "static/js/2.731f8174.chunk.js.map": "/static/js/2.731f8174.chunk.js.map",
+    "static/js/2.777b4d64.chunk.js": "/static/js/2.777b4d64.chunk.js",
+    "static/js/2.777b4d64.chunk.js.map": "/static/js/2.777b4d64.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ffc6cdd7.chunk.css.map": "/static/css/2.ffc6cdd7.chunk.css.map",
-    "static/js/2.731f8174.chunk.js.LICENSE.txt": "/static/js/2.731f8174.chunk.js.LICENSE.txt",
+    "static/js/2.777b4d64.chunk.js.LICENSE.txt": "/static/js/2.777b4d64.chunk.js.LICENSE.txt",
     "static/media/cypress.83de4f78.svg": "/static/media/cypress.83de4f78.svg",
     "static/media/express.cc0d7cff.svg": "/static/media/express.cc0d7cff.svg",
     "static/media/home-dark.a301c403.svg": "/static/media/home-dark.a301c403.svg",
     "static/media/home-light.9f7b64e8.svg": "/static/media/home-light.9f7b64e8.svg",
     "static/media/mongoose.8a6d147f.svg": "/static/media/mongoose.8a6d147f.svg",
-    "static/media/p-1-desktop.0cd4a905.png": "/static/media/p-1-desktop.0cd4a905.png",
-    "static/media/p-1-mobile.7e7d4bf5.png": "/static/media/p-1-mobile.7e7d4bf5.png",
-    "static/media/p-2-desktop.d9688791.png": "/static/media/p-2-desktop.d9688791.png",
-    "static/media/p-2-mobile.dac8ce70.png": "/static/media/p-2-mobile.dac8ce70.png",
+    "static/media/p-1-desktop.d9688791.png": "/static/media/p-1-desktop.d9688791.png",
+    "static/media/p-1-mobile.dac8ce70.png": "/static/media/p-1-mobile.dac8ce70.png",
+    "static/media/p-2-desktop.0cd4a905.png": "/static/media/p-2-desktop.0cd4a905.png",
+    "static/media/p-2-mobile.7e7d4bf5.png": "/static/media/p-2-mobile.7e7d4bf5.png",
     "static/media/p-3-desktop.07bc946c.png": "/static/media/p-3-desktop.07bc946c.png",
     "static/media/p-3-mobile.5f984de6.png": "/static/media/p-3-mobile.5f984de6.png",
     "static/media/p-4-desktop.3e1e48b4.png": "/static/media/p-4-desktop.3e1e48b4.png",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.cc97b701.js",
     "static/css/2.ffc6cdd7.chunk.css",
-    "static/js/2.731f8174.chunk.js",
-    "static/js/main.bd067cd4.chunk.js"
+    "static/js/2.777b4d64.chunk.js",
+    "static/js/main.eb3e36e0.chunk.js"
   ]
 }
