@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.eb3e36e0.chunk.js",
-    "main.js.map": "/static/js/main.eb3e36e0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cc97b701.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cc97b701.js.map",
-    "static/css/2.ffc6cdd7.chunk.css": "/static/css/2.ffc6cdd7.chunk.css",
-    "static/js/2.777b4d64.chunk.js": "/static/js/2.777b4d64.chunk.js",
-    "static/js/2.777b4d64.chunk.js.map": "/static/js/2.777b4d64.chunk.js.map",
+    "main.js": "/static/js/main.547c7e42.chunk.js",
+    "main.js.map": "/static/js/main.547c7e42.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ecce1a7b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ecce1a7b.js.map",
+    "static/css/2.39bdbcce.chunk.css": "/static/css/2.39bdbcce.chunk.css",
+    "static/js/2.445cdca5.chunk.js": "/static/js/2.445cdca5.chunk.js",
+    "static/js/2.445cdca5.chunk.js.map": "/static/js/2.445cdca5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.ffc6cdd7.chunk.css.map": "/static/css/2.ffc6cdd7.chunk.css.map",
-    "static/js/2.777b4d64.chunk.js.LICENSE.txt": "/static/js/2.777b4d64.chunk.js.LICENSE.txt",
+    "static/css/2.39bdbcce.chunk.css.map": "/static/css/2.39bdbcce.chunk.css.map",
+    "static/js/2.445cdca5.chunk.js.LICENSE.txt": "/static/js/2.445cdca5.chunk.js.LICENSE.txt",
     "static/media/cypress.83de4f78.svg": "/static/media/cypress.83de4f78.svg",
     "static/media/express.cc0d7cff.svg": "/static/media/express.cc0d7cff.svg",
     "static/media/home-dark.a301c403.svg": "/static/media/home-dark.a301c403.svg",
@@ -27,15 +27,14 @@
     "static/media/p-5-mobile.7bd0c126.png": "/static/media/p-5-mobile.7bd0c126.png",
     "static/media/p-6-desktop.83bf44e9.png": "/static/media/p-6-desktop.83bf44e9.png",
     "static/media/p-6-mobile.4b51ff8f.png": "/static/media/p-6-mobile.4b51ff8f.png",
-    "static/media/index.css": "/static/media/poppins-latin-ext-400-normal.53f1614b.woff2",
-    "static/media/resume.c989f5df.pdf": "/static/media/resume.c989f5df.pdf",
+    "static/media/index.css": "/static/media/poppins-latin-ext-400-normal.4f38b433.woff2",
     "static/media/sequelize.1876f7b9.svg": "/static/media/sequelize.1876f7b9.svg",
     "static/media/typeorm.c60ab4e3.svg": "/static/media/typeorm.c60ab4e3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc97b701.js",
-    "static/css/2.ffc6cdd7.chunk.css",
-    "static/js/2.777b4d64.chunk.js",
-    "static/js/main.eb3e36e0.chunk.js"
+    "static/js/runtime-main.ecce1a7b.js",
+    "static/css/2.39bdbcce.chunk.css",
+    "static/js/2.445cdca5.chunk.js",
+    "static/js/main.547c7e42.chunk.js"
   ]
 }
